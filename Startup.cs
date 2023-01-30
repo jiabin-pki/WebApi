@@ -46,7 +46,7 @@ namespace WebApi
                 options.AddDefaultPolicy(
                     policy =>
                     {
-                        policy.WithOrigins("http://localhost:3000").AllowAnyHeader()
+                        policy.AllowAnyOrigin().AllowAnyHeader()
                                                   .AllowAnyMethod(); ;
                     });
             });

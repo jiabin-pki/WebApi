@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\TEMP\\Study\\WebApi\\WebApi.csproj": {}
+    "C:\\TEMP\\Simplicity-WebDataViewer\\poc\\backend\\WebApi\\WebApi.csproj": {}
   },
   "projects": {
-    "C:\\TEMP\\Study\\WebApi\\WebApi.csproj": {
+    "C:\\TEMP\\Simplicity-WebDataViewer\\poc\\backend\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\TEMP\\Study\\WebApi\\WebApi.csproj",
+        "projectUniqueName": "C:\\TEMP\\Simplicity-WebDataViewer\\poc\\backend\\WebApi\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "C:\\TEMP\\Study\\WebApi\\WebApi.csproj",
+        "projectPath": "C:\\TEMP\\Simplicity-WebDataViewer\\poc\\backend\\WebApi\\WebApi.csproj",
         "packagesPath": "C:\\Users\\ChenJ26604\\.nuget\\packages\\",
-        "outputPath": "C:\\TEMP\\Study\\WebApi\\obj\\",
+        "outputPath": "C:\\TEMP\\Simplicity-WebDataViewer\\poc\\backend\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages"
